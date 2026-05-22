@@ -144,8 +144,7 @@ ReminderEDU/
 │       └── script.js             # Frontend JavaScript
 
 └── templates/                    # HTML templates
-
-    ├── base.html                # Base template with layout
+ ├── base.html                # Base template with layout
     ├── index.html               # Main dashboard
     └── reminder_detail.html      # Individual reminder view
 
