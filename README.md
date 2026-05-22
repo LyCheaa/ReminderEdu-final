@@ -4,19 +4,32 @@ ReminderEDU is an intelligent reminder and task management system designed speci
 
 What This Application Allows Users to Do:
 •	Create & Manage Reminders: Easily add, edit, and delete academic reminders and assignments with detailed information
+
 •	Schedule Tasks: Set specific due dates and times for assignments, projects, and study sessions
+
 •	Subject Organization: Categorize reminders by subject (e.g., Math, Science, English, History, etc.)
+
 •	Smart Notifications: Receive intelligent alerts based on urgency levels and time remaining
+
 •	Deadline Tracking: View time remaining for each task with automated urgency categorization:
+
 o	Overdue: Tasks past their due date
+
 o	Due Soon!: Tasks due within the next hour
+
 o	Today: Tasks due within 24 hours
+
 o	Upcoming: Tasks due within 3 days
+
 o	Planned: Tasks scheduled for later
+
 •	Task Sorting: Automatically sort assignments by urgency to prioritize workload
+
 •	Data Persistence: All reminders are automatically saved and loaded from persistent storage
+
 •	User-Friendly Interface: Clean, intuitive, responsive web interface for easy task management
 Assignment Details: Store and display assignment name, subject, due date, due time, and time remaining
+
 
 
 OOP Concepts Used
