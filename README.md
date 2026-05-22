@@ -89,7 +89,7 @@ Prerequisites
 •	Git (for cloning the repository)
 Installation Steps
 1. Clone the Repository
-git clone https://github.com/LyCheaa/ReminderEDU.git
+git clone https://github.com/LyCheaa/ReminderEdu-final
 cd ReminderEDU
 2. Create a Virtual Environment (Recommended)
 # On Windows
